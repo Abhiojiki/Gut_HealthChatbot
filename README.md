@@ -1,5 +1,7 @@
 # Gut Health Chatbot
 
+![LLMChatbot](https://github.com/Abhiojiki/Gut_HealthChatbot/blob/main/LLMResponse.png)
+
 ## Overview
 This project is designed to create a chatbot focused on gut health. It uses a pipeline to discover article URLs from sitemaps, extract and preprocess article content, chunk the text, generate embeddings, and build a FAISS vector index for efficient retrieval.
 
