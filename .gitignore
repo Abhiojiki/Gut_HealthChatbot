@@ -1,0 +1,45 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+.github
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# CSV and JSONL files
+*.csv
+*.jsonl
+
+
+# Cache files
+*.cache
+*.lock
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore test artifacts
+Testing/__pycache__/
+
+.txt
